@@ -17,6 +17,6 @@
     "strictBindCallApply": false,
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
-    "esModuleInterop": true // fixed error module in data-loaders
+    "esModuleInterop": true // fixed error module in data-loaders because data-loader
   }
 }
